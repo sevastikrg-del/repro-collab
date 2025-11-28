@@ -7,6 +7,7 @@ A fundamental question in this field is: when something in the world changes by 
 
 > "The tower of Babel was never finished because the workers could not reach an understanding on how they should build it; my psychophysical edifice will stand because the workers will never agree on how to tear it down."  
 > — Gustav Fechner (1877)
+We decided to keep the meta-comment because it preserves the historical and humorous context of Fechner's work without reducing the scientific clarity of the preregistration.
 
 In this quote, Fechner—the founder of psychophysics—humorously suggests that his framework for understanding how we perceive the physical world will endure precisely because critics cannot agree on a unified approach to challenge it.
 Empierically we can challenge it by trying to replicate an original experiment from the time.

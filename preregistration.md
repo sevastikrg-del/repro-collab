@@ -1,6 +1,7 @@
 # Replication of Classic Psychophysical Research on Size Discrimination
 
 ## Study Overview
+yyyy
 
 Psychophysics is the scientific study of the relationship between physical stimuli (like light, sound, or size) and our psychological perception of them.
 A fundamental question in this field is: when something in the world changes by a certain amount, how much does our perception of it change?
@@ -39,9 +40,6 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Participants
 
-22 participants with normal or corrected-to-normal vision will complete the study.
-
-### Materials
 
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
@@ -50,7 +48,7 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Procedure
 
-1. Participants sit at a comfortable in a chair
+
 2. On each trial:
    - Two squares appear simultaneously (reference and comparison)
    - The participant judges which square is larger by pressing a corresponding button
@@ -60,7 +58,7 @@ Based on the theoretical framework and prior observations, we predict:
    - 200 trials for comparison sizes very close to the reference (hardest discriminations)
    - 100 trials for intermediate differences
    - 50 trials for the largest differences (easiest discriminations)
-   - Total: approximately 20 trials per participant
+
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
 ### Key Measurements
